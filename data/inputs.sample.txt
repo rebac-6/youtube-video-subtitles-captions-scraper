@@ -1,0 +1,4 @@
+# Sample list of YouTube video URLs for the subtitles scraper.
+# One URL per line. Lines starting with # are ignored.
+
+https://www.youtube.com/watch?v=nn-bCRvhNUM
