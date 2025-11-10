@@ -1,0 +1,6 @@
+{
+  "default_language": "en",
+  "output_dir": "data",
+  "export_formats": ["json", "csv", "excel", "xml", "html"],
+  "notes": "Copy this file to settings.json to customize configuration for your environment."
+}
